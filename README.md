@@ -10,6 +10,9 @@ According to the guy on youtube we have 3 main sections for layouting the page:
 - Main Section: Meat and the bone section where all the content is there.
 - Footer section: it's at the end, maybe social media pages or things like that.
 
+## Projects
 
+### Netflix
+In this project, we created the homepage of netflix from scratch using css and html.
 
 
